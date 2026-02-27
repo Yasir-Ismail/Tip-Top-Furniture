@@ -5,7 +5,7 @@
  *
  *  ⚙️  CONFIGURATION — change your WhatsApp number here:
  */
-const WHATSAPP_NUMBER = "923001234567"; // ← Your number with country code, no + or spaces
+const WHATSAPP_NUMBER = "923036157474"; // ← Your number with country code, no + or spaces
 /**
  * ============================================================
  */
