@@ -38,7 +38,7 @@ const products = [
     id: 1,
     name: "L-Shape Sofa",
     category: "sofa-sets",
-    price: "₹32,000",
+    price: "Rs. 32,000",
     images: [
       "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=800&q=80",
       "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?w=800&q=80",
@@ -56,7 +56,7 @@ const products = [
     id: 2,
     name: "3-Seater Chesterfield Sofa",
     category: "sofa-sets",
-    price: "₹28,500",
+    price: "Rs. 28,500",
     images: [
       "https://images.unsplash.com/photo-1550254478-ead40cc54513?w=800&q=80",
       "https://images.unsplash.com/photo-1567016432779-094069958ea5?w=800&q=80",
@@ -74,7 +74,7 @@ const products = [
     id: 3,
     name: "Fabric Recliner Sofa",
     category: "sofa-sets",
-    price: "₹22,000",
+    price: "Rs. 22,000",
     images: [
       "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=800&q=80",
       "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
@@ -94,7 +94,7 @@ const products = [
     id: 4,
     name: "King-Size Storage Bed",
     category: "beds",
-    price: "₹26,000",
+    price: "Rs. 26,000",
     images: [
       "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80",
       "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?w=800&q=80",
@@ -112,7 +112,7 @@ const products = [
     id: 5,
     name: "Upholstered Platform Bed",
     category: "beds",
-    price: "₹30,000",
+    price: "Rs. 30,000",
     images: [
       "https://images.unsplash.com/photo-1617325247661-675ab4b64ae2?w=800&q=80",
       "https://images.unsplash.com/photo-1588046130717-0eb0c9a3ba15?w=800&q=80",
@@ -130,7 +130,7 @@ const products = [
     id: 6,
     name: "Solid Wood Poster Bed",
     category: "beds",
-    price: "₹35,000",
+    price: "Rs. 35,000",
     images: [
       "https://images.unsplash.com/photo-1618220179428-22790b461013?w=800&q=80",
       "https://images.unsplash.com/photo-1598928506311-c55ez637a745?w=800&q=80",
@@ -150,7 +150,7 @@ const products = [
     id: 7,
     name: "6-Seater Dining Table Set",
     category: "dining-tables",
-    price: "₹24,000",
+    price: "Rs. 24,000",
     images: [
       "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=800&q=80",
       "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=800&q=80",
@@ -168,7 +168,7 @@ const products = [
     id: 8,
     name: "Extendable Dining Table",
     category: "dining-tables",
-    price: "₹28,000",
+    price: "Rs. 28,000",
     images: [
       "https://images.unsplash.com/photo-1604578762246-41134e37f9cc?w=800&q=80",
       "https://images.unsplash.com/photo-1533090481720-856c6e3c1fdc?w=800&q=80",
@@ -188,7 +188,7 @@ const products = [
     id: 9,
     name: "3-Door Sliding Wardrobe",
     category: "wardrobes",
-    price: "₹34,000",
+    price: "Rs. 34,000",
     images: [
       "https://images.unsplash.com/photo-1558997519-83ea9252edf8?w=800&q=80",
       "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&q=80",
@@ -206,7 +206,7 @@ const products = [
     id: 10,
     name: "2-Door Classic Wardrobe",
     category: "wardrobes",
-    price: "₹22,000",
+    price: "Rs. 22,000",
     images: [
       "https://images.unsplash.com/photo-1595526114035-0d45ed16cfbf?w=800&q=80",
       "https://images.unsplash.com/photo-1558997519-83ea9252edf8?w=800&q=80",
@@ -226,7 +226,7 @@ const products = [
     id: 11,
     name: "Executive Office Desk",
     category: "office-furniture",
-    price: "₹18,000",
+    price: "Rs. 18,000",
     images: [
       "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?w=800&q=80",
       "https://images.unsplash.com/photo-1593062096033-9a26b09da705?w=800&q=80",
@@ -244,7 +244,7 @@ const products = [
     id: 12,
     name: "Ergonomic Wooden Chair",
     category: "office-furniture",
-    price: "₹8,500",
+    price: "Rs. 8,500",
     images: [
       "https://images.unsplash.com/photo-1580480055273-228ff5388ef8?w=800&q=80",
       "https://images.unsplash.com/photo-1592078615290-033ee584e267?w=800&q=80",
